@@ -23,6 +23,9 @@ There is already a version in the repo titled index.js that should be able to wo
 and not use browserify or make changes to template.js and use browserify.  All we are using browserify for is to include
 the corresponding libraries inside index.js that are used in template.js.
 
+### Curl
+If you are using the tool to fetch updated satellite data then you are going to want to have curl installed and update the satellite_data_fetch.py with your credentials to the website.
+
 ### Boot.sh
 There is a boot script that can be used that does the browserify conversions for you and then boots the application.
 Note that browserify needs to be installed globally.
