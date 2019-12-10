@@ -29,3 +29,9 @@ If you are using the tool to fetch updated satellite data then you are going to 
 ### Boot.sh
 There is a boot script that can be used that does the browserify conversions for you and then boots the application.
 Note that browserify needs to be installed globally.
+
+### Pictures
+![debris](debris.png)
+Here is an example of what the application looks like.
+![details](details.png)
+Here is an example of the data window when you click on a piece of debris.
